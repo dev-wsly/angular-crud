@@ -1,0 +1,13 @@
+.corrective {
+    padding: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+button {
+    margin: 8px 15px 0 0;
+}

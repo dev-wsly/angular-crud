@@ -1,19 +1,24 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "teste",
+      "price": "12345",
+      "id": 4
     },
     {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "name": "Veio do formulário",
+      "price": "1584",
+      "id": 5
     },
     {
-      "id": 3,
-      "name": "Samsung S20+ Ultra",
-      "price": "6820.89"
+      "name": "Teclado HP",
+      "price": "77784",
+      "id": 6
+    },
+    {
+      "name": "Teclado",
+      "price": "77",
+      "id": 7
     }
   ]
 }

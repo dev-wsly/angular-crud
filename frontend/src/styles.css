@@ -10,3 +10,15 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .v-middle {
     vertical-align: middle;
 }
+
+.msg-success .mdc-snackbar__surface::before {
+    background-color: #28a745;
+    color: #fff;
+    z-index: -1;
+}
+
+.msg-error .mdc-snackbar__surface::before {
+    background-color: #e35e6b;
+    color: #fff;
+    z-index: -1;
+}
